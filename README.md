@@ -30,7 +30,7 @@
                 <div class="black box05"></div>
         </div>
         <section class="scroll">
-           <a class="scrollClick" href="#"><img src="./images/down-arrow-svgrepo-com.svg" class="svgfile"></img></a>
+           <a class="scrollClick" href="#"><img src="down-arrow-svgrepo-com.svg" class="svgfile"></img></a>
         </section>
     </div>
 </body>
