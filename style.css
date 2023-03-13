@@ -29,7 +29,7 @@
     overflow: hidden;
     border-top-right-radius: 15px;
     content: '';
-    background-image: url('./images/hero.jpg');
+    background-image: url('hero.jpg');
     position: absolute;
 }
 .blackbox{
@@ -104,31 +104,31 @@
 }
 .box01{
     grid-area: left;
-    background-image: url('./images/8401.jpg');
+    background-image: url('8401.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 .box02{
     grid-area: leftsec;
-    background-image: url('./images/graduate.jpg');
+    background-image: url('graduate.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 .box03{
     grid-area: middle;
-    background-image: url('./images/avatar.jpg');
+    background-image: url('avatar.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 .box04{
     grid-area: rightSec;
-    background-image: url('./images/school.jpg');
+    background-image: url('school.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 .box05{
     grid-area: right;
-    background-image: url('./images/mail.jpg');
+    background-image: url('mail.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
