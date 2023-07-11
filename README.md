@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukanta Oraw</h1>
 <h3 align="center">A passionate AIML learner.</h3>
-<meta name="google-site-verification" content="3tMiaAk4vDg3q2Bl0qUkWb9oFyLxNrw-3tOgmb63igE" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukantaoraw&label=Profile%20views&color=0e75b6&style=flat" alt="sukantaoraw" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@sukantao" target="blank"><img src="https://img.shields.io/twitter/follow/@sukantao?logo=twitter&style=for-the-badge" alt="@sukantao" /></a> </p>
