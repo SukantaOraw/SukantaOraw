@@ -1,3 +1,4 @@
+<h1 align="center">Hey there ! SukantaOraw</h1>
 <h3 align="center">A passionate AIML learner.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SukantaOraw&label=Profile%20views&color=0e75b6&style=flat" alt="SukantaOraw" /> </p>
 
@@ -23,6 +24,3 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/graphql-icon.svg" alt="Graphql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 </p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukantaOraw&layout=compact&theme=" alt=SukantaOraw />
