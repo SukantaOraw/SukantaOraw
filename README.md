@@ -1,21 +1,73 @@
-<h1 align="center">Hey there ! I'm SukantaOraw</h1>
-<h3 align="center"> I am pursuing a B.Tech degree in Computer Science and Engineering specialized in Artificial Intelligence and Machine Learning. I am familiar with web development technologies and worked on web-based projects. Nowadays, to enrich my skills, I am 
-honing my skills more on machine learning, data science, and AI, being involved in the projects. Using my technical strengths to develop and address issues and functioning as a subject matter expert with regard to AI and machine learning are areas which I am enthusiastic about.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SukantaOraw&label=Profile%20views&color=0e75b6&style=flat" alt="SukantaOraw" /> </p>
+<h1 align="center">I'm Sukanta Oraw</h1>
 
-- 📫 How to reach me **sukantaoraw800@gmail.com**
+<h3 align="center">
+M.Tech in Computer Science & Engineering | Software Development
+</h3>
 
-<div> <a href="https://github.com/SukantaOraw" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:sukantaoraw800@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SukantaOraw&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm an **M.Tech student in Computer Science and Engineering** with a strong interest in **software development and computer science**.
+
+I enjoy building software, solving programming and algorithmic problems, and understanding how systems work. I am particularly interested in developing efficient and reliable software while strengthening my knowledge of core computer science concepts.
+
+My current focus includes **Data Structures & Algorithms, Operating Systems, Computer Networks, Database Systems, Software Engineering, and System Design**, along with hands-on development through projects.
+
+I also have foundational exposure to **Machine Learning and Data Science**.
+
+---
+
+### 🛠️ Languages & Technologies
+
 <p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
+---
+
+### 🧠 Core Computer Science
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Operating Systems
+* Computer Networks
+* Database Management Systems
+* Software Engineering
+* System Design
+
+---
+
+### 🔍 Areas of Interest
+
+* 💻 Software Development
+* 🧠 Algorithms & Problem Solving
+* ⚙️ Systems & Backend Development
+* 🌐 Computer Networks
+* 🗄️ Database Systems
+* 🤖 Machine Learning & Data Science
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/SukantaOraw" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:sukantaoraw800@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
